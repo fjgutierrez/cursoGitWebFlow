@@ -1,0 +1,4 @@
+Configuracion de repositorio
+	git init 
+	git clone 
+	git config
