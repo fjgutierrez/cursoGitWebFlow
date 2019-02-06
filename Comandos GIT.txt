@@ -2,3 +2,6 @@ Configuracion de repositorio
 	git init 
 	git clone 
 	git config
+
+Hacer cambios
+	git add file1 file2 file3
